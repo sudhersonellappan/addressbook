@@ -1,4 +1,4 @@
-This line is added.
+
 Addressbook Tutorial
 ====================
 
